@@ -1,0 +1,131 @@
+
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+	  
+	  
+	  
+	  <h1>Kilopi Videos ( Türkçe - English )</h1>
+
+<div className="Appx">
+	  
+	  <figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/OG__SwkV3wg" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+<figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/OG__SwkV3wg" title="A"
+		width = "400" height = "250"	  
+		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+<figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/OG__SwkV3wg" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+	  
+	  <figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/E_fH7bAgjG0" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+	  
+	  </div>
+	  
+	  
+	  
+	  <div className="Appx">
+	  
+	  <figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/bnJYyOwmrOo" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+<figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/9L9gKfj1j1A" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+<figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/Mv0GaHFLV3w" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+	  
+	  <figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/SM1HzuaP810" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+	  
+	  </div>
+	  
+	  
+	  
+	  <div className="Appx">
+	  
+	  <figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/43J5Yk_CuPI" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+<figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/Oa_09k8XNuY" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+<figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/GmHeK_x14CY" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+	  
+	  <figure className="snip1361">
+	  <iframe src="https://www.youtube.com/embed/gQcWAp9Ekx8" title="A" 
+	  width = "400" height = "250"
+	  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</figure>
+	  
+	  </div>
+	  
+	  
+	  
+	  
+	  
+
+
+
+
+
+    </div>
+  );
+}
+
+export default App;
